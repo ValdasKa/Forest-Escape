@@ -21,7 +21,7 @@ G is the end goal.
 1   1 1   1
 1 111G11111
 
-11111111111       <<< Here is map done walking ('.' means the path).
+11111111111       <<< Here is map done walking ('.' means the path). 
 1     1   1
 1 1 1 111 1
 1 1 1     1
